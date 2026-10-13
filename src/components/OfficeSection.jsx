@@ -21,7 +21,7 @@ export default function OfficeSection() {
           <div className="aspect-[16/11] rounded-2xl overflow-hidden border border-[#E8E4DC] shadow-sm group">
             <img
               src="/images/office1.jpeg"
-              alt="Comfortable, private seating area in Dr. Maya Reynolds' Santa Monica therapy office"
+              alt="Private, quiet therapy room with natural light at Dr. Maya Reynolds' Santa Monica counseling office"
               className="w-full h-full object-cover group-hover:scale-102 transition-transform duration-500"
             />
           </div>

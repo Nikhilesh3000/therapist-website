@@ -8,7 +8,7 @@ export default function Hero() {
           <div className="relative aspect-[3/4] rounded-2xl overflow-hidden shadow-sm border border-[#E8E4DC]">
             <img
               src="images/Dr. Maya Reynolds.png"
-              alt="Dr. Maya Reynolds, PsyD - Santa Monica Clinical Psychologist"
+              alt="Dr. Maya Reynolds, PsyD - Licensed Clinical Psychologist in Santa Monica, California"
               className="w-full h-full object-cover"
             />
           </div>
